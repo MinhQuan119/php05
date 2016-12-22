@@ -1,0 +1,67 @@
+.navbar-default .navbar-nav>li>a{
+    color: #ffff32;
+    background: #0e2f44;
+}
+.navbar .nav > li > a:hover {
+    color: #0e2f44;
+    background: #ffff32;
+}
+.navbar-header {
+    background: #0e2f44;
+}
+.container-fluid {
+    background: #0e2f44;
+}
+.logo-container img {
+    width: 100%;
+    height: auto;
+}
+.footer{
+	margin-top: 20px; 
+    color: #e5e500;
+	background: #0e2f44;
+    font-weight: bold;
+    text-transform: uppercase;
+    height: 200px;
+}
+
+.footer a{
+    color: #e5e500;
+}
+.footer-logo{
+    margin-top: 20px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    background-color: #0e2f44;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-menu a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-menu>li>a {
+    color: #ffff32;
+}
+.dropdown-menu>li>a:hover {color: #0e2f44;
+    background: #ffff32;}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.dropdown:hover .dropdown-toggle {
+    color: #0e2f44;
+    background: #ffff32;
+}
