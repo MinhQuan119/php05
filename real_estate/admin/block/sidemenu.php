@@ -246,6 +246,24 @@
                         <li>
                             <a href="../page/user_delete.php">Delete user</a>
                         </li>
+                        <li>
+                            <a href="../page/user_show.php">Show user info</a>
+                        </li>
+                    </ul>
+                    <!-- /.nav-second-level -->
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-user fa-fw"></i> Manage post<span class="fa arrow"></span></a>
+                    <ul class="nav nav-third-level">
+                        <li>
+                            <a href="../page/post_add.php">Add post</a>
+                        </li>
+                        <li>
+                            <a href="../page/post_update.php">Update post</a>
+                        </li>
+                        <li>
+                            <a href="../page/post_show.php">Show post info</a>
+                        </li>
                     </ul>
                     <!-- /.nav-second-level -->
                 </li>
